@@ -1,0 +1,68 @@
+17:03:46.880 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:46.897 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:46.899 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:46.899 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:46.910 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+17:03:46.979 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 67 ms.
+17:03:46.983 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:46.984 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:46.987 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:46.987 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:46.988 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:46.988 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:46.994 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:46.994 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:46.995 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:46.996 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:46.998 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:46.999 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:46.999 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:46.999 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:47.002 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:03:47.012 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+17:03:47.024 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:47.025 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:47.025 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:03:47.029 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:03:47.078 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--1931037945\testng-customsuite.xml
+
+17:03:47.151 [main] INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+17:03:51.766 [main] INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@73437222: 181 ms
+17:03:51.852 [main] INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@11b377c5: 85 ms
+17:03:51.903 [main] INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@71f0b72e: 51 ms
+17:03:51.947 [main] INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1d0a61c8: 44 ms
+17:03:51.966 [main] INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@47fbc56: 18 ms
+17:03:51.966 [main] INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@151ef57f: 0 ms
+17:05:00.317 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+17:05:10.035 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:05:13.039 [main] INFO  - **** Starting Tc_003LogIn data verification successfully****
+17:05:13.048 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:05:18.259 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:05:26.975 [main] INFO  - **** Starting Tc_003LogIn data verification successfully****
+17:05:26.980 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:06:23.789 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+17:06:34.731 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:06:39.361 [main] INFO  - **** Starting Tc_003LogIn data verification successfully****
+17:06:39.367 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:06:44.515 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:06:49.651 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:08:54.197 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+17:09:05.516 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:09:09.234 [main] INFO  - **** Starting Tc_003LogIn data verification successfully****
+17:09:09.249 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:09:14.382 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:09:19.496 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:24:17.671 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+17:24:29.491 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:24:32.142 [main] INFO  - **** Starting Tc_003LogIn data verification successfully****
+17:24:32.158 [main] INFO  - **** Starting Tc_003LogIn data verify****
+17:24:37.348 [main] INFO  - **** Starting Tc_003LogIn data verify****

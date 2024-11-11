@@ -1,0 +1,38 @@
+11:19:19.056 [main] INFO  - **** Starting Tc_003LogIn data verification successfully****
+11:19:19.070 [main] INFO  - **** Starting Tc_003LogIn data verify****
+11:19:30.479 [main] INFO  - **** Starting Tc_003LogIn data verify****
+11:19:42.266 [main] INFO  - **** Starting Tc_003LogIn data verify****
+11:19:53.741 [main] INFO  - **** Starting Tc_003LogIn data verify****
+13:46:07.976 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\Group.xml
+
+13:46:13.654 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+13:46:14.645 [main] INFO  - clicked on myAccount link
+13:46:15.129 [main] INFO  - clicked on registration link
+13:46:15.131 [main] INFO  - Providing Customer Information
+13:46:17.004 [main] INFO  - Validating expected results...
+13:46:17.111 [main] INFO  - Finished Execution...
+13:46:22.842 [main] INFO  - **** Starting Tc_002LogInPage****
+13:46:24.673 [main] INFO  - **** Finished Tc_002_LogInTest
+13:59:57.435 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\Group.xml
+
+14:00:03.815 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+14:00:04.654 [main] INFO  - clicked on myAccount link
+14:00:05.283 [main] INFO  - clicked on registration link
+14:00:05.285 [main] INFO  - Providing Customer Information
+14:00:07.939 [main] INFO  - Validating expected results...
+14:00:08.028 [main] INFO  - Finished Execution...
+14:00:13.331 [main] INFO  - **** Starting Tc_002LogInPage****
+14:00:15.412 [main] INFO  - **** Finished Tc_002_LogInTest
+14:10:27.780 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\Group.xml
+
+14:10:34.538 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+14:10:34.683 [main] INFO  - clicked on myAccount link
+14:10:35.729 [main] INFO  - clicked on registration link
+14:10:35.735 [main] INFO  - Providing Customer Information
+14:10:37.804 [main] INFO  - Validating expected results...
+14:10:37.878 [main] INFO  - Finished Execution...
+14:10:43.669 [main] INFO  - **** Starting Tc_002LogInPage****
+14:10:45.646 [main] INFO  - **** Finished Tc_002_LogInTest

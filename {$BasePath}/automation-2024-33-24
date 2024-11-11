@@ -1,0 +1,98 @@
+12:29:50.011 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+12:29:55.091 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+12:29:55.182 [main] INFO  - clicked on myAccount link
+12:29:55.659 [main] INFO  - clicked on registration link
+12:29:55.661 [main] INFO  - Providing Customer Information
+12:29:57.345 [main] INFO  - Validating expected results...
+12:29:57.394 [main] INFO  - Finished Execution...
+12:50:32.187 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+12:50:37.888 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+12:50:38.009 [main] INFO  - clicked on myAccount link
+12:50:38.410 [main] INFO  - clicked on registration link
+12:50:38.413 [main] INFO  - Providing Customer Information
+12:50:39.941 [main] INFO  - Validating expected results...
+12:50:40.014 [main] INFO  - Finished Execution...
+13:01:39.942 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+13:01:45.445 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+13:01:45.570 [main] INFO  - clicked on myAccount link
+13:01:46.035 [main] INFO  - clicked on registration link
+13:01:46.038 [main] INFO  - Providing Customer Information
+13:01:47.876 [main] INFO  - Validating expected results...
+13:01:48.024 [main] INFO  - Finished Execution...
+13:05:02.572 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+13:05:06.978 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+13:05:07.848 [main] INFO  - clicked on myAccount link
+13:05:08.261 [main] INFO  - clicked on registration link
+13:05:08.265 [main] INFO  - Providing Customer Information
+13:05:09.899 [main] INFO  - Validating expected results...
+13:05:09.973 [main] INFO  - Finished Execution...
+13:05:41.875 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\Group.xml
+
+13:05:47.229 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+13:05:47.351 [main] INFO  - clicked on myAccount link
+13:05:47.835 [main] INFO  - clicked on registration link
+13:05:47.839 [main] INFO  - Providing Customer Information
+13:05:49.449 [main] INFO  - Validating expected results...
+13:05:49.526 [main] INFO  - Finished Execution...
+13:05:53.921 [main] INFO  - **** Starting Tc_002LogInPage****
+13:05:55.752 [main] INFO  - **** Finished Tc_002_LogInTest
+13:08:35.410 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+13:08:39.951 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+13:08:41.117 [main] INFO  - clicked on myAccount link
+13:08:41.833 [main] INFO  - clicked on registration link
+13:08:41.838 [main] INFO  - Providing Customer Information
+13:08:44.008 [main] INFO  - Validating expected results...
+13:08:44.083 [main] INFO  - Finished Execution...
+13:11:40.649 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+13:11:45.229 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+13:11:46.285 [main] INFO  - clicked on myAccount link
+13:11:46.758 [main] INFO  - clicked on registration link
+13:11:46.761 [main] INFO  - Providing Customer Information
+13:11:48.644 [main] INFO  - Validating expected results...
+13:11:48.732 [main] INFO  - Finished Execution...
+15:17:15.474 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+15:17:31.521 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+15:17:31.652 [main] INFO  - clicked on myAccount link
+15:17:32.241 [main] INFO  - clicked on registration link
+15:17:32.247 [main] INFO  - Providing Customer Information
+15:17:33.693 [main] INFO  - Validating expected results...
+15:17:33.739 [main] INFO  - Finished Execution...
+15:19:52.490 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+15:19:56.245 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+15:19:56.373 [main] INFO  - clicked on myAccount link
+15:19:56.924 [main] INFO  - clicked on registration link
+15:19:56.926 [main] INFO  - Providing Customer Information
+15:19:58.270 [main] INFO  - Validating expected results...
+15:19:58.316 [main] INFO  - Finished Execution...
+15:26:23.416 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+15:26:32.242 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+15:27:02.707 [main] INFO  - clicked on myAccount link
+15:27:03.602 [main] INFO  - clicked on registration link
+15:27:03.607 [main] INFO  - Providing Customer Information
+15:27:05.452 [main] INFO  - Validating expected results...
+15:27:05.506 [main] INFO  - Finished Execution...
+15:33:33.187 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\test-output\testng-failed.xml
+
+15:33:39.174 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+15:33:39.375 [main] INFO  - clicked on myAccount link
+15:33:40.435 [main] INFO  - clicked on registration link

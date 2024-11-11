@@ -1,0 +1,102 @@
+17:50:40.798 [main] INFO  - Finished Execution...
+17:55:10.206 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\testng.xml
+
+17:55:16.100 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+17:55:16.275 [main] INFO  - clicked on myAccount link
+17:55:16.891 [main] INFO  - clicked on registration link
+17:55:16.894 [main] INFO  - Providing Customer Information
+17:55:18.908 [main] INFO  - Validating expected results...
+17:55:18.971 [main] INFO  - Finished Execution...
+17:55:29.632 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+17:55:29.968 [main] INFO  - clicked on myAccount link
+17:55:30.802 [main] INFO  - clicked on registration link
+17:55:30.804 [main] INFO  - Providing Customer Information
+17:55:32.500 [main] INFO  - Validating expected results...
+17:55:32.540 [main] INFO  - Finished Execution...
+17:55:42.964 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+17:55:43.502 [main] INFO  - clicked on myAccount link
+17:55:44.764 [main] INFO  - clicked on registration link
+17:55:44.765 [main] INFO  - Providing Customer Information
+17:55:46.964 [main] INFO  - Validating expected results...
+17:55:47.058 [main] INFO  - Finished Execution...
+18:05:42.050 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\testng.xml
+
+18:07:21.223 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\testng.xml
+
+18:09:05.791 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\testng.xml
+
+18:10:02.851 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\testng.xml
+
+18:39:56.698 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+18:43:58.213 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+18:47:23.051 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+18:49:06.382 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+18:49:13.096 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+18:49:13.241 [main] INFO  - clicked on myAccount link
+18:49:13.741 [main] INFO  - clicked on registration link
+18:49:13.742 [main] INFO  - Providing Customer Information
+18:49:15.376 [main] INFO  - Validating expected results...
+18:49:15.473 [main] INFO  - Finished Execution...
+18:51:07.194 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+18:52:03.356 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+18:52:28.339 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+18:55:39.930 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+18:56:57.204 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+18:58:56.828 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+19:00:49.387 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+19:07:49.235 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+19:13:58.848 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+19:24:51.605 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+19:30:24.013 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+19:33:55.732 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:33:55.742 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:33:55.744 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:55.744 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:55.744 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:55.744 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:55.745 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:55.745 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:55.745 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:55.745 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:55.745 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:55.746 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:55.746 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:55.746 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:55.746 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:33:55.746 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:33:55.754 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

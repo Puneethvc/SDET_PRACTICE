@@ -1,0 +1,81 @@
+19:36:09.715 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:36:09.734 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:36:09.734 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:36:09.734 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:36:09.735 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:36:09.736 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:36:09.736 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:36:09.736 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:36:09.737 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:36:09.742 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+19:36:09.751 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+19:36:09.752 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:36:09.752 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:36:09.753 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:36:09.753 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:36:09.767 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--1824293282\testng-customsuite.xml
+
+19:36:09.795 [main] INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+19:36:13.802 [main] INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@221dad51: 150 ms
+19:36:13.826 [main] INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@470a659f: 23 ms
+19:36:13.841 [main] INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@6d469831: 14 ms
+19:36:13.854 [main] INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@21c7208d: 13 ms
+19:36:13.877 [main] INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1a28b346: 23 ms
+19:36:13.877 [main] INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@25e49cb2: 0 ms
+21:31:36.237 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+21:35:12.072 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+21:37:57.835 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+21:38:05.056 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+21:38:05.330 [main] INFO  - clicked on myAccount link
+21:38:05.783 [main] INFO  - clicked on registration link
+21:38:05.790 [main] INFO  - Providing Customer Information
+21:38:07.722 [main] INFO  - Validating expected results...
+21:38:07.894 [main] INFO  - Finished Execution...
+21:38:47.760 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\testng.xml
+
+21:39:01.403 [TestNG-tests-1] INFO  - *** Starting Tc_01RegistrationPage ***
+21:39:03.202 [TestNG-tests-1] INFO  - clicked on myAccount link
+21:39:04.421 [TestNG-tests-3] INFO  - *** Starting Tc_01RegistrationPage ***
+21:39:04.960 [TestNG-tests-3] INFO  - clicked on myAccount link
+21:39:05.381 [TestNG-tests-1] INFO  - clicked on registration link
+21:39:05.384 [TestNG-tests-1] INFO  - Providing Customer Information
+21:39:06.854 [TestNG-tests-3] INFO  - clicked on registration link
+21:39:06.855 [TestNG-tests-3] INFO  - Providing Customer Information
+21:39:08.109 [TestNG-tests-2] INFO  - *** Starting Tc_01RegistrationPage ***
+21:39:08.472 [TestNG-tests-2] INFO  - clicked on myAccount link
+21:39:09.330 [TestNG-tests-2] INFO  - clicked on registration link
+21:39:09.331 [TestNG-tests-2] INFO  - Providing Customer Information
+21:39:09.653 [TestNG-tests-1] INFO  - Validating expected results...
+21:39:10.054 [TestNG-tests-1] INFO  - Finished Execution...
+21:39:11.529 [TestNG-tests-2] INFO  - Validating expected results...
+21:39:11.571 [TestNG-tests-2] INFO  - Finished Execution...
+21:39:11.819 [TestNG-tests-3] INFO  - Validating expected results...
+21:39:11.913 [TestNG-tests-3] INFO  - Finished Execution...
+22:19:11.136 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+22:19:21.547 [main] INFO  - **** Starting Tc_002LogInPage *****
+22:21:40.422 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+22:21:46.520 [main] INFO  - **** Starting Tc_002LogInPage *****
+22:24:04.499 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+22:24:10.013 [main] INFO  - **** Starting Tc_002LogInPage *****
+22:25:11.701 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+22:25:17.206 [main] INFO  - **** Starting Tc_002LogInPage *****
+22:26:24.640 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+22:26:30.007 [main] INFO  - **** Starting Tc_002LogInPage *****

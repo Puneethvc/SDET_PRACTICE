@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	
+<Properties>
+	<property name="BasePath">./logs</property>
+</Properties>	
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} %-5level - %msg%n"/>
+        </Console>
+ <RollingFile name="File" fileName="${BasePath}/automation.log" filePattern="{$BasePath}/automation-%d{yyyy-mm-dd}">
+     <!--File name="File" fileName="c:\\temp\\log4.log" append="true" /-->
+     <PatternLayout Pattern="%d{HH:mm:ss.SSS} [%t] %-5level - %msg%n" />
+     <SizeBasedTriggeringPolicy size="5000" />
+</RollingFile> 
+       
+</Appenders>
+
+    <Loggers>
+        <!--Logger name="com.sdetadda" level="info" additivity="true"-->
+            <!--AppenderRef ref="Console"/-->
+        <!--Logger-->
+        <Root level="info"> <!-- Here u can use multiple log levels All-<trace <Debug <Info <Warn <Error <Fatal <Off-->
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+</Configuration>

@@ -1,0 +1,80 @@
+13:49:25.082 [main] INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@273c947f: 12 ms
+13:49:25.092 [main] INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@77e2a6e2: 0 ms
+14:15:06.175 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.182 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+14:15:06.185 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.185 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.186 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.186 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.187 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.188 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.193 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+14:15:06.210 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+14:15:06.212 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.212 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.214 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.214 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.215 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.215 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.218 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.219 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.220 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.220 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.221 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.222 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.222 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.222 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.223 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.224 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.225 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.225 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.225 [main] INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:15:06.225 [main] INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:15:06.236 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--1363913668\testng-customsuite.xml
+
+14:15:06.259 [main] INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+14:15:06.749 [main] INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@6e5bfdfc: 262 ms
+14:15:06.802 [main] INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@4837595f: 53 ms
+14:15:06.850 [main] INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@3d9fc57a: 47 ms
+14:15:06.929 [main] INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6650813a: 79 ms
+14:15:06.958 [main] INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1af1347d: 29 ms
+14:15:06.959 [main] INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@632aa1a3: 0 ms
+14:24:06.728 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+14:24:13.196 [main] INFO  - **** Starting Tc_002LogInPage****
+14:24:14.790 [main] INFO  - **** Finished Tc_002_LogInTest
+18:00:12.992 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+11:02:03.110 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+11:03:07.516 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+11:09:52.491 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+11:13:00.251 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+11:19:12.209 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+11:20:21.955 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+16:53:55.733 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+16:54:49.592 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+16:56:25.641 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+17:03:38.485 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+

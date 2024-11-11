@@ -1,0 +1,89 @@
+19:11:17.001 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:11:28.998 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:17:09.494 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+19:17:19.692 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:17:21.891 [main] INFO  - **** Starting Tc_003LogIn data verification successfully****
+19:17:21.900 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:17:27.205 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:17:32.456 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:17:37.669 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:17:42.856 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:19:10.681 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\master.xml
+
+19:19:20.470 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:19:23.525 [main] INFO  - **** Starting Tc_003LogIn data verification successfully****
+19:19:23.542 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:19:26.042 [main] INFO  - **** Starting Tc_003LogIn data verification successfully****
+19:19:26.047 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:19:38.057 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:19:49.731 [main] INFO  - **** Starting Tc_003LogIn data verify****
+19:20:01.429 [main] INFO  - **** Starting Tc_003LogIn data verify****
+13:08:06.756 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\Group.xml
+
+13:08:47.392 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\Group.xml
+
+13:51:33.445 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\Group.xml
+
+13:51:48.159 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+13:51:48.484 [main] INFO  - clicked on myAccount link
+13:51:49.469 [main] INFO  - clicked on registration link
+13:51:49.471 [main] INFO  - Providing Customer Information
+13:51:52.238 [main] INFO  - Validating expected results...
+13:51:52.452 [main] INFO  - Finished Execution...
+13:52:03.259 [main] INFO  - **** Starting Tc_002LogInPage****
+13:52:05.950 [main] INFO  - **** Finished Tc_002_LogInTest
+12:29:44.228 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\CrossBrowser.xml
+
+12:29:53.770 [TestNG-tests-1] INFO  - *** Starting Tc_01RegistrationPage ***
+12:29:53.791 [TestNG-tests-3] INFO  - *** Starting Tc_01RegistrationPage ***
+12:29:56.371 [TestNG-tests-1] INFO  - clicked on myAccount link
+12:29:56.809 [TestNG-tests-3] INFO  - clicked on myAccount link
+12:30:01.695 [TestNG-tests-2] INFO  - *** Starting Tc_01RegistrationPage ***
+12:30:02.152 [TestNG-tests-2] INFO  - clicked on myAccount link
+12:31:51.894 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\CrossBrowser.xml
+
+12:31:59.369 [TestNG-tests-1] INFO  - *** Starting Tc_01RegistrationPage ***
+12:32:02.194 [TestNG-tests-3] INFO  - *** Starting Tc_01RegistrationPage ***
+12:32:02.775 [TestNG-tests-1] INFO  - clicked on myAccount link
+12:32:02.939 [TestNG-tests-3] INFO  - clicked on myAccount link
+12:32:05.516 [TestNG-tests-2] INFO  - *** Starting Tc_01RegistrationPage ***
+12:32:05.873 [TestNG-tests-2] INFO  - clicked on myAccount link
+12:32:06.661 [TestNG-tests-2] INFO  - clicked on registration link
+12:32:06.671 [TestNG-tests-2] INFO  - Providing Customer Information
+12:32:09.082 [TestNG-tests-2] INFO  - Validating expected results...
+12:32:52.889 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\Group.xml
+
+12:32:57.630 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+12:32:57.802 [main] INFO  - clicked on myAccount link
+12:32:58.208 [main] INFO  - clicked on registration link
+12:32:58.209 [main] INFO  - Providing Customer Information
+12:32:59.655 [main] INFO  - Validating expected results...
+12:32:59.763 [main] INFO  - Finished Execution...
+12:33:06.263 [main] INFO  - **** Starting Tc_002LogInPage****
+12:33:08.096 [main] INFO  - **** Finished Tc_002_LogInTest
+12:35:09.096 [TestNG-tests-2] ERROR - Test Failed...
+12:41:07.827 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\Group.xml
+
+12:41:40.585 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+12:41:40.679 [main] INFO  - clicked on myAccount link
+12:41:41.205 [main] INFO  - clicked on registration link
+12:41:41.207 [main] INFO  - Providing Customer Information
+12:41:42.759 [main] INFO  - Validating expected results...
+12:41:42.807 [main] INFO  - Finished Execution...
+12:41:46.107 [main] INFO  - **** Starting Tc_002LogInPage****
+12:41:47.611 [main] INFO  - **** Finished Tc_002_LogInTest
+12:50:02.005 [main] INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SDET_PRACTICE\Group.xml
+
+12:50:05.799 [main] INFO  - *** Starting Tc_01RegistrationPage ***
+12:50:05.919 [main] INFO  - clicked on myAccount link
